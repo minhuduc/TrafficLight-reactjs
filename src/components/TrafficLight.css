@@ -1,0 +1,21 @@
+.bulb {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  opacity: 0.5;
+  border-radius: 100%;
+}
+
+.red {
+  background: red;
+}
+.yellow {
+  background: yellow;
+}
+.green {
+  background: green;
+}
+
+.active {
+  opacity: 1;
+}
